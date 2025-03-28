@@ -9,7 +9,7 @@ Dataset Preview
 
 A preview of the top five rows of the Car dataset:
 
-| | Car_Name | Year | Selling_Price | Present_Price | Kms_Driven | Fuel_Type | Seller_Type | Transmission | Owner |
+| | Car_Name | Year | Selling_Price (lakhs) | Present_Price (lakhs) | Kms_Driven | Fuel_Type | Seller_Type | Transmission | Owner |
 |-| -------- | ---- | ------------- | ------------- | ---------- | --------- | ----------- | ------------ | ----- |
 |0|     ritz | 2014 |	       3.35 |          5.59 |	   27000 |	  Petrol |	    Dealer |       Manual |     0 |
 |1|      sx4 | 2013 |          4.75 |	       9.54 |	   43000 |    Diesel |	    Dealer |	   Manual |	    0 |
