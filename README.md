@@ -2,7 +2,7 @@ Objective
 
 In this project, the objective is to predict the Car Selling Price based on various features like Car's Present_Price, Kms_Driven, Owner, Fuel_Type, Seller_Type, and Transmission. We will use the CAR DEKHO dataset from Kaggle. This dataset contains information about used cars listed on Car Dekho.
 
-Quick Demo
+
 We can predict the Car Selling Price by filling in the data on the UI, after which the prediction will be displayed on the UI.
 
 Dataset Preview
@@ -66,7 +66,7 @@ Car Price Prediction directory tree
 
 ```app.py``` : Front and back end portion of the web application
 
-```Car Dekho Price Prediction.ipynb``` : conatains ipynb file (Jypiter Notebook file)
+```Car Price Prediction.ipynb``` : conatains ipynb file (Jypiter Notebook file)
 
 ```rf_regression_model.pkl```  : contains model for prediction
 
